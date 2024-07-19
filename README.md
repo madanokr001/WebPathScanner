@@ -6,4 +6,5 @@ A Python script to scan a website and discover its directories recursively.
 
 1. **Installation**
 
-   git clone 
+   git clone https://github.com/madanokr001/WebPathScanner.git
+   
