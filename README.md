@@ -14,7 +14,7 @@ A Python script to scan a website and discover its directories recursively.
    
    pip install beautifulsoup4
    
-   python python '/home/YOUR NAME/WebPathScanner/WebPath scanner.py'
+   python '/home/YOUR NAME/WebPathScanner/WebPath scanner.py'
    
 
    
